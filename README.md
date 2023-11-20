@@ -29,8 +29,11 @@ d. Heatmap Representation -The use of color gradients or intensity in the matrix
 Educational Field Wise Attrition: provides a holistic view of attrition trends based on employees' educational backgrounds. This information is valuable for HR professionals and organizational leaders in making informed decisions related to talent management, workforce planning, and employee retention strategies.
 
 Attrtion Rate by Gender for different groups: 
+
 a. The donut chart segments represent attrition rates for different genders (e.g., male and female), offering a visual comparison of attrition levels.
+
 b. The chart further breaks down each gender segment into different age groups, allowing for a detailed analysis of attrition patterns across varying career stages.
+
 c. The visualization helps in tailoring retention strategies based on the identified attrition trends, considering the unique needs and expectations of employees in different demographic groups.
 
 
