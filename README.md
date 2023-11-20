@@ -35,3 +35,6 @@ c. The visualization helps in tailoring retention strategies based on the identi
 
 
 ![IPL](https://github.com/Hajira20/Tableau--HR-Analytics-Dashboard/assets/15829565/06b21e40-adf7-4fef-a0d3-2bf9a419945a)
+
+Insights gained: 
+The dashboard showcases important KPIs such as Total Employees, Active Employees, Attrition, Attrition Rate, and Average Age. By providing these insights, The dashboard enables HR managers to take proactive measures to retain top talent, manage attrition, and create a more productive work environment
